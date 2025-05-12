@@ -31,3 +31,6 @@ The goal of the Dashboard is to provide the clear and interactive picture of the
 4. United States record high sales so instead of US we should focus more on other regions.
 5. The most liked coffee type is Excelsa and the least selling coffee type was Arabica.
 6. 50% of customers own a loyalty card 50% dont own a loyalty card.
+
+### Snapshot:
+![Coffee Sales Dashboard](https://github.com/Raghcodezz/Coffee-Sales-Dashboard/raw/main/Snapshot%20of%20the%20Dashboard.png)
